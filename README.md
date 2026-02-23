@@ -63,4 +63,4 @@
 
 ## 📊 My stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanMobile&show_icons=true)
+![PanMobile's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanMobile&show_icons=true)
