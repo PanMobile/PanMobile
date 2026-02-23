@@ -1,23 +1,19 @@
-###
-
-<h1 align="left">Hi 👋 I extend my greetings for you!</h1>
+<h1 align="left">Hi 👋 Welcome to my profile!</h1>
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-###
-
 <p align="left">
-  I am a Kotlin Multiplatform developer (Specializing in Android). I write the elegant code with a clean architecture and with SOLID, KISS, DRY principles<br><br>
-  - 🔭 Working on my own projects<br>
-  - 📚 Learning Kotlin & Swift ecosystems<br>
-  - ⚡ <br>
-  - 📫 </p>
+  I am a Kotlin Multiplatform developer specializing in Android. I write elegant code using Clean Architecture and follow the SOLID, KISS, and DRY principles.<br><br>
+  - 🔭 Currently working on my own projects<br>
+  - 📚 Exploring the Kotlin and Swift ecosystems<br>
+  - ⚡ Enjoy walking in my free time
+</p>
 
-## 🛠 My stack
+---
+
+## 🛠 My Stack
 
 ### 📱 Languages
-
-<div>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -49,7 +45,7 @@
   </a>
 </p>
 
-### 💻 Other
+### 🔌 Backend & Services
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -57,14 +53,10 @@
   </a>
 </p>
 
-### 💻 Productivity Stuff
+### 🚀 Productivity
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=neovim,obsidian" />
   </a>
 </p>
-
-</div>
-
----
