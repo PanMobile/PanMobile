@@ -13,20 +13,9 @@
   - ⚡ <br>
   - 📫 </p>
 
-###
+## 🛠 My stack
 
-###
-
-<img src="https://raw.githubusercontent.com/PanMobile/PanMobile/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-## 🛠 My stack of languages and technologies
-
-### Platforms and Languages
-
-
+### 📱 Platforms and Languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" alt="android logo"  />
@@ -49,11 +38,11 @@
 
 ### 🔨 Tools
 
-  <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" height="50" alt="illustrator logo"  />
+  <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" height="50" alt="Android Studio logo"  />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" height="50" alt="illustrator logo"  />
+  <img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" height="50" alt="Xcode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="photoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
   <img width="12" />
 
 
@@ -63,9 +52,15 @@
   <img width="12" />
 
 
-### 📱 Other
+### 💻 Other
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="50" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ktor" height="50" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=ktor" height="50" alt="Ktor logo"  />
   <img width="12" />
 </div>
+
+---
+
+## 📊 My stats
+
+<img align ="left" alt="PanMobile's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PanMobile&show_icons=true&hide_border=false"/>
