@@ -15,13 +15,13 @@
 
 ## 🛠 My stack
 
-### 📱 Platforms and Languages
+### 📱 Languages
 
 <div>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,kotlin,java,apple,swift" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,swift" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@
   </a>
 </p>
 
-### 💻 Productivity stuff
+### 💻 Productivity Stuff
 
 <p align="left">
   <a href="https://skillicons.dev">
