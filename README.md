@@ -27,38 +27,44 @@
 
 ### 🧰 Version Control
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="50" alt="git logo"  />
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+  </a>
+</p>
 
 ### 🔨 Tools
 
-  <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" height="50" alt="Android Studio logo"  />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" height="50" alt="Xcode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
-  <img width="12" />
-
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,gradle" />
+  </a>
+</p>
 
 ### ✨ UI/UX
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-  <img width="12" />
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+</p>
 
 ### 💻 Other
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="50" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ktor" height="50" alt="Ktor logo"  />
-  <img width="12" />
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,ktor" />
+  </a>
+</p>
+
+### 💻 Productivity stuff
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=neovim,obsidian" />
+  </a>
+</p>
+
 </div>
 
 ---
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
