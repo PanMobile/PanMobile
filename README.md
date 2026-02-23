@@ -61,6 +61,12 @@
 
 ---
 
-## 📊 My stats
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
-<img align="left" alt="PanMobile's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PanMobile&show_icons=true" />
+<div> 
+<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</div>
