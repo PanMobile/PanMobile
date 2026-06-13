@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,swift" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,swift,nix" />
   </a>
 </p>
 
@@ -57,6 +57,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,obsidian" />
+    <img src="https://skillicons.dev/icons?i=neovim,obsidian,linux" />
   </a>
 </p>
